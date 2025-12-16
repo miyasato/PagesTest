@@ -13,6 +13,8 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year/:month/:day/:title/
 
+theme: minima
+
 # Plugins
 plugins:
   - jekyll-feed
