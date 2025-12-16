@@ -1,7 +1,7 @@
 title: PagesTest
 description: GitHub Pages で初めてブログを作成
-url: "https://miyasato.github.io/PagesTest/"
-baseurl: ""
+url: "https://miyasato.github.io"
+baseurl: "/PagesTest"
 
 # Author information
 author:
