@@ -22,3 +22,14 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
   
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      related: true
+      share: true
+
+      
