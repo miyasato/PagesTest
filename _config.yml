@@ -14,6 +14,8 @@ highlighter: rouge
 permalink: /:year/:month/:day/:title/
 
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "air"
+locale: ja-JP
 
 # Plugins
 plugins:
