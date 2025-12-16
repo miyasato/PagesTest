@@ -13,7 +13,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year/:month/:day/:title/
 
-theme: minima
+remote_theme: mmistakes/minimal-mistakes
 
 # Plugins
 plugins:
